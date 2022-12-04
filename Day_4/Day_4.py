@@ -34,5 +34,5 @@ def twoStars(file_name):
 
     return(total)
 
-#print(oneStar("Day_4/input.txt"))
+print(oneStar("Day_4/input.txt"))
 print(twoStars("Day_4/input.txt"))
